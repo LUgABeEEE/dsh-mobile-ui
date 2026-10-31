@@ -1,0 +1,12 @@
+{
+  "name": "dsh-mobile-ui",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Measure and fix the DeepSeek Harness mobile surface: a headless proportion lab (dsh-ui-lab) and opt-in adaptation packs for dsh-mobile.",
+  "scripts": {
+    "check": "node tools/check-pack.mjs",
+    "check:pack": "node tools/check-pack.mjs"
+  },
+  "license": "MIT"
+}
