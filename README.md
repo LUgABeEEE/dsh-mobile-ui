@@ -1,3 +1,10 @@
+> **This repository has been split and is superseded.**
+>
+> - the measuring tool → **[LUgABeEEE/dsh-ui-lab](https://github.com/LUgABeEEE/dsh-ui-lab)**
+> - the adaptation packs → **[LUgABeEEE/dsh-mobile-adapt](https://github.com/LUgABeEEE/dsh-mobile-adapt)**
+>
+> It is archived and will not receive further changes.
+
 # dsh-mobile-ui
 
 **Measure the DSH mobile surface, then fix what the measurement finds.**
